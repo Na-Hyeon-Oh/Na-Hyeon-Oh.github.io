@@ -1,17 +1,12 @@
 ---
-name: Sujay Kundu
+name: Na-Hyeon-Oh
 username: xplor4r
-bio: "Full Stack Web Developer, based in Bangalore, India"
-site: https://sujaykundu.com
+bio: "Happiness"
 avatar: xplor4r.png
-email: mail@sujaykundu.com
+email: onh0195@g.skku.edu
 social:
     - title: "github"
-      url: "https://github.com/sujaykundu777"
+      url: "https://github.com/Na-Hyeon-Oh"
     - title: "linkedin"
-      url: "https://www.linkedin.com/in/sujaykundu"
-    - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-    - title: "facebook"
-      url: "https://www.facebook.com/sujay.kundu2"
+      url: "https://www.linkedin.com/in/na-hyeon-oh"
 ---
