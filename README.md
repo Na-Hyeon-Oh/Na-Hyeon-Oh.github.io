@@ -1,4 +1,4 @@
-# MY STATIC PAGE FROM
+# ABOUT MY STATIC PAGE
 
 ### devlopr-jekyll - A Beautiful Jekyll Theme Built for Developers
 
