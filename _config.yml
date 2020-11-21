@@ -28,11 +28,11 @@ urls:
 
 author_logo: profile.png
 author: Na-Hyeon-Oh
-author_bio: Hi, my name is Na-Hyeon-Oh:D
+author_bio: Hi, my name is Na-Hyeon-Oh :D
 author_email: "onh0195@g.skku.edu"
 author_location: South Korea
 author_website_url: ""
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+typewrite-text: Hello:) I'm a developer majoring in software as an undergraduate student in skku.
 
 # Experiences
 author_work_experiences:
@@ -77,7 +77,7 @@ github_username:  Na-Hyeon-Oh
 facebook_username: 오나현
 linkedin_username: 오나현
 behance_username: 
-instagram_username: hyeo_n.a
+instagram_username: hye_on.a
 medium_username: 
 telegram_username:
 dribbble_username:
@@ -130,9 +130,9 @@ paginate_path: "/blog/page/:num/"
 
 collections:
   products:
-    output: true
+    output: false
   authors:
-    output: true
+    output: false
 
 defaults:
   -
